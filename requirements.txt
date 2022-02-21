@@ -1,0 +1,11 @@
+asgiref
+certifi
+charset-normalizer
+Django
+djangorestframework
+idna
+paymeuz
+pytz
+requests
+sqlparse
+urllib3
