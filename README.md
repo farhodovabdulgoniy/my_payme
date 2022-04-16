@@ -32,7 +32,7 @@ PAYME_SETTINGS = {
 ```
 urlpatterns = [
     ...
-    path('api/payme/',include('paymeuz.urls')) #8600490417195930
+    path('api/payme/',include('paymeuz.urls')) #86004564341954340
 ]
 
 ```
